@@ -26,3 +26,5 @@
 - Two-factor hardware wallet (Ledger/Trezor) for all signers
 - Role rotation every 6 months
 - Emergency recovery address (cold storage backup)
+
+<!-- Auto-update: 2025-10-14T12:18:49.780812 -->
