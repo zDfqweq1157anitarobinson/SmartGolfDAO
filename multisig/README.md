@@ -38,3 +38,5 @@ All related addresses and updates are available in `safe_addresses.json`.
 <!-- Auto-update: 2025-10-12T18:25:31.096955 -->
 
 <!-- Auto-update: 2025-10-15T15:02:44.324155 -->
+
+<!-- Auto-update: 2025-10-17T10:17:24.746705 -->
